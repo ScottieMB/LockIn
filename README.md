@@ -1,2 +1,2 @@
 # LockIn
-App for when I am feeling ADHD-ridden and cannot study to create a studious environment.
+A Pomodoro style application that helps me create a calm environment to study in.
